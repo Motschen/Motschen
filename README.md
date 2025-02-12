@@ -7,5 +7,5 @@
   <br><br>
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Motschen&include_all_commits=true&show_icons=true&hide=stars&hide_border=true&theme=ambient_gradient&bg_color=25,4158a0,00aaaa,77aa00"/>  
   <br><br>
-  🌐 𝙵𝚒𝚗𝚍 𝚘𝚞𝚝 𝚖𝚘𝚛𝚎 𝚘𝚗: <a font href="https://midnightdust.eu/">𝚖𝚒𝚍𝚗𝚒𝚐𝚑𝚝𝚍𝚞𝚜𝚝.𝚎𝚞</a> 🌐
+  <img align="top" height=30 src="rotating_globe.svg"/> 𝙵𝚒𝚗𝚍 𝚘𝚞𝚝 𝚖𝚘𝚛𝚎 𝚘𝚗: <a font href="https://midnightdust.eu/">𝚖𝚒𝚍𝚗𝚒𝚐𝚑𝚝𝚍𝚞𝚜𝚝.𝚎𝚞</a> <img align="top" height=30 src="rotating_globe.svg"/>
 </p>
