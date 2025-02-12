@@ -1,0 +1,10 @@
+<svg
+  viewBox="0 -15 20 20"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+    <!-- Text cannot be rotated in SVGs, so we just fake it :D -->
+    <text transform-origin="center">🌐
+        <animateTransform attributeType="xml" attributeName="transform" type="scale" values="1 1; 0 1; 1 1" dur="3s" additive="sum"  repeatCount="indefinite" />
+    </text>
+</svg>
